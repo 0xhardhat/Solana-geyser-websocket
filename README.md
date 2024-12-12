@@ -6,6 +6,6 @@ This repo is showing the 4 various methods using helius-websocket, hello-moon-we
 I have used these methods in my pump.fun and raydium sniping projects.
 If you want my help in using these methods, plz contact me
 
-Telegram: @Takhi77
+Telegram: @cryptosimbaceo
 
 Let's contact through telegram first, and if you mind, then let's discuss another method.
